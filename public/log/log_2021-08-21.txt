@@ -1,0 +1,55 @@
+Date & Time: 2021-08-21 09:30:11
+URL: /searchBookByAuthor
+Request: 
+Response: {"title":"Search Published Books by Authors","authorListing":[{"id":154,"author_name":"Isak Azimov1","count":1},{"id":155,"author_name":"3","count":1},{"id":156,"author_name":"hello","count":1},{"id":157,"author_name":"hello6","count":1},{"id":158,"author_name":"Rishi1","count":4},{"id":159,"author_name":"Rishi2","count":2},{"id":161,"author_name":"Rishi3","count":1},{"id":162,"author_name":"hello7","count":1},{"id":163,"author_name":"Rishi10","count":3},{"id":164,"author_name":"Rishi11","count":2},{"id":165,"author_name":"Rishi12","count":1},{"id":166,"author_name":"Rishi13","count":1},{"id":167,"author_name":"Rishi14","count":1}]}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-21 09:31:27
+URL: /searchBookByAuthor
+Request: 
+Response: {"title":"Search Published Books by Authors","authorListing":[{"id":154,"author_name":"Isak Azimov1","count":1},{"id":155,"author_name":"3","count":1},{"id":156,"author_name":"hello","count":1},{"id":157,"author_name":"hello6","count":1},{"id":158,"author_name":"Rishi1","count":4},{"id":159,"author_name":"Rishi2","count":2},{"id":161,"author_name":"Rishi3","count":1},{"id":162,"author_name":"hello7","count":1},{"id":163,"author_name":"Rishi10","count":3},{"id":164,"author_name":"Rishi11","count":2},{"id":165,"author_name":"Rishi12","count":1},{"id":166,"author_name":"Rishi13","count":1},{"id":167,"author_name":"Rishi14","count":1}]}
+-------------------------
+Date & Time: 2021-08-21 09:31:31
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":158,"book_name":"End of spirit"},{"id":159,"book_name":"Standard"},{"id":160,"book_name":"Standard"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-21 09:31:35
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":141,"book_name":"Standard2"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-21 09:31:38
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":144,"book_name":"Rishi Book3"},{"id":155,"book_name":"Rishi Book5"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-21 09:31:41
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":142,"book_name":"Rishi Book"},{"id":143,"book_name":"Rishi Book2"},{"id":145,"book_name":"Rishi Book4"},{"id":154,"book_name":"Rishi Book5"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-21 09:31:45
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":165,"book_name":"End of spiritpppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-21 09:31:48
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":161,"book_name":"Standard2"},{"id":162,"book_name":"Standard2"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-21 09:31:51
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":140,"book_name":"Standard"}]},"message":""}
+-------------------------

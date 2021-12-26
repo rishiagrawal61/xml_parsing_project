@@ -1,0 +1,200 @@
+Date & Time: 2021-08-17 09:19:47
+URL: /index
+Request: 
+Response: "SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint \"author_author_name_key\"\nDETAIL:  Key (author_name)=(Rishi1) already exists."
+-------------------------
+Date & Time: 2021-08-17 09:19:54
+URL: /index
+Request: 
+Response: "SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint \"author_author_name_key\"\nDETAIL:  Key (author_name)=(Rishi1) already exists."
+-------------------------
+Date & Time: 2021-08-17 09:20:22
+URL: /index
+Request: 
+Response: "SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint \"author_author_name_key\"\nDETAIL:  Key (author_name)=(Rishi1) already exists."
+-------------------------
+Date & Time: 2021-08-17 09:21:51
+URL: /index
+Request: 
+Response: "SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint \"author_author_name_key\"\nDETAIL:  Key (author_name)=(Rishi1) already exists."
+-------------------------
+Date & Time: 2021-08-17 09:21:52
+URL: /index
+Request: 
+Response: "SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint \"author_author_name_key\"\nDETAIL:  Key (author_name)=(Rishi1) already exists."
+-------------------------
+Date & Time: 2021-08-17 09:21:52
+URL: /index
+Request: 
+Response: "SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint \"author_author_name_key\"\nDETAIL:  Key (author_name)=(Rishi1) already exists."
+-------------------------
+Date & Time: 2021-08-17 09:21:53
+URL: /index
+Request: 
+Response: "SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint \"author_author_name_key\"\nDETAIL:  Key (author_name)=(Rishi1) already exists."
+-------------------------
+Date & Time: 2021-08-17 09:22:28
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":["Isak Azimov","3","hello","hello6","Rishi1"],"namesInserted":["End of spirit","Standard","Standard","Standard2","Rishi Book"]}
+-------------------------
+Date & Time: 2021-08-17 09:23:21
+URL: /searchBookByAuthor
+Request: 
+Response: {"title":"Search Published Books by Authors","authorListing":[{"id":142,"author_name":"Isak Azimov","count":1},{"id":143,"author_name":"3","count":1},{"id":144,"author_name":"hello","count":1},{"id":145,"author_name":"hello6","count":1},{"id":146,"author_name":"Rishi1","count":1}]}
+-------------------------
+Date & Time: 2021-08-17 09:23:23
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":123,"book_name":"End of spirit"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-17 09:23:25
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":127,"book_name":"Rishi Book"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-17 09:23:27
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":126,"book_name":"Standard2"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-17 09:23:29
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":125,"book_name":"Standard"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-17 09:23:32
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":124,"book_name":"Standard"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-17 09:23:33
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":123,"book_name":"End of spirit"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-17 09:23:39
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":127,"book_name":"Rishi Book"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-17 10:14:04
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:15:15
+URL: /index
+Request: 
+Response: "SQLSTATE[08P01]: <<Unknown error>>: 7 ERROR:  bind message supplies 6 parameters, but prepared statement \"pdo_stmt_00000026\" requires 10"
+-------------------------
+Date & Time: 2021-08-17 10:15:51
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":["Isak Azimov","3","hello","hello6","Rishi1","Rishi1"],"namesInserted":["End of spirit","Standard","Standard","Standard2","Rishi Book","Rishi Book2"]}
+-------------------------
+Date & Time: 2021-08-17 10:17:19
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:17:31
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:17:32
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:18:43
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:18:44
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:18:45
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:18:45
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:18:57
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:18:59
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:18:59
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:18:59
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:19:00
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:19:01
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:19:07
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-17 10:20:37
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":["Rishi2"],"namesInserted":["Rishi Book3"]}
+-------------------------
+Date & Time: 2021-08-17 10:25:20
+URL: /index
+Request: 
+Response: "Data Not Found"
+-------------------------
+Date & Time: 2021-08-17 10:25:32
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":["Isak Azimov1"],"namesInserted":["End of spirit"]}
+-------------------------
+Date & Time: 2021-08-17 10:27:52
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":["Isak Azimov1","3","hello","hello6","Rishi1","Rishi1","Rishi2","Rishi1"],"namesInserted":["End of spirit","Standard","Standard","Standard2","Rishi Book","Rishi Book2","Rishi Book3","Rishi Book4"]}
+-------------------------
+Date & Time: 2021-08-17 10:28:04
+URL: /searchBookByAuthor
+Request: 
+Response: {"title":"Search Published Books by Authors","authorListing":[{"id":154,"author_name":"Isak Azimov1","count":1},{"id":155,"author_name":"3","count":1},{"id":156,"author_name":"hello","count":1},{"id":157,"author_name":"hello6","count":1},{"id":158,"author_name":"Rishi1","count":3},{"id":159,"author_name":"Rishi2","count":1}]}
+-------------------------
+Date & Time: 2021-08-17 10:28:07
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":142,"book_name":"Rishi Book"},{"id":143,"book_name":"Rishi Book2"},{"id":145,"book_name":"Rishi Book4"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-17 10:28:09
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":144,"book_name":"Rishi Book3"}]},"message":""}
+-------------------------

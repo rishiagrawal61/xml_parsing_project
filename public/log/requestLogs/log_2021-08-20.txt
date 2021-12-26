@@ -1,0 +1,160 @@
+Date & Time: 2021-08-20 22:29:59
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:30:59
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:31:10
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:33:14
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:33:23
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:49:00
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:49:07
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:49:47
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:51:00
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:51:02
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:51:04
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:52:14
+URL: master/searchBookByAuthor
+Request: GET :- {"url":"master\/searchBookByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:52:15
+URL: master/public/img/favicon.png
+Request: GET :- {"url":"master\/public\/img\/favicon.png"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:52:23
+URL: master/searchBookByAuthor
+Request: GET :- {"url":"master\/searchBookByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:52:26
+URL: master/searchBookByAuthor
+Request: GET :- {"url":"master\/searchBookByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:52:41
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:53:22
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:53:41
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:54:05
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:54:14
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:54:30
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 22:55:02
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:06
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:07
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:08
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:08
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:08
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:08
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:09
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:22
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:02:35
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails","app_param":"sys"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-20 23:07:09
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- []
+Response: 
+-------------------------

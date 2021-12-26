@@ -1,0 +1,35 @@
+	h3,h2 {
+		    color : #000000;
+		    text-align : center;
+		    font-family: "SIMPSON";
+		}
+		form {
+		    width: 100px;
+		    margin: 0 auto;
+		}
+		table {
+			margin-left: auto;
+	  		margin-right: auto;
+		  	font-family: arial, sans-serif;
+		  	border-collapse: collapse;
+		  	width: 50%;
+		  	margin-top: 80px;
+		  	overflow-x:scroll;
+		  	display:block;
+		}
+
+		td, th {
+		  	border: 1px solid #dddddd;
+		  	text-align: left;
+		  	padding: 8px;
+		}
+
+		tr:nth-child(even) {
+		  	background-color: #dddddd;
+		}
+		p{
+			font-size: 1.5em;
+			margin-bottom: -50px;
+			font-weight: bold;
+			text-align: center;
+		}

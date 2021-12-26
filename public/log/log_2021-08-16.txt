@@ -1,0 +1,75 @@
+Date & Time: 2021-08-16 23:03:33
+URL: /index
+Request: 
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:04:01
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:18:24
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:19:59
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:25:54
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:36:46
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:37:38
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:40:19
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:44:41
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:53:00
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:53:01
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:54:31
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-16 23:54:49
+URL: /searchBookByAuthor
+Request: 
+Response: {"title":"Search Published Books by Authors","authorListing":[{"id":95,"author_name":"Isak Azimov","count":1},{"id":96,"author_name":"3","count":1},{"id":97,"author_name":"hello","count":1},{"id":98,"author_name":"hello6","count":1},{"id":99,"author_name":"Rishi1","count":2}]}
+-------------------------
+Date & Time: 2021-08-16 23:54:52
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":117,"book_name":"End of spirit"}]},"message":""}
+-------------------------
+Date & Time: 2021-08-16 23:54:55
+URL: /getBookDetails
+Request: 
+Response: {"status":1,"data":{"booksListing":[{"id":121,"book_name":"Rishi Book"},{"id":122,"book_name":"Rishi Book2"}]},"message":""}
+-------------------------

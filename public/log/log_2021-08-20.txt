@@ -1,0 +1,155 @@
+Date & Time: 2021-08-20 22:30:00
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:30:59
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:31:10
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":["hello7"],"namesInserted":["Standard2"]}
+-------------------------
+Date & Time: 2021-08-20 22:33:14
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:33:23
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:49:00
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:49:07
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:49:47
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:51:00
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:51:02
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:51:04
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:52:14
+URL: /searchBookByAuthor
+Request: 
+Response: {"title":"Search Published Books by Authors","authorListing":[{"id":154,"author_name":"Isak Azimov1","count":1},{"id":155,"author_name":"3","count":1},{"id":156,"author_name":"hello","count":1},{"id":157,"author_name":"hello6","count":1},{"id":158,"author_name":"Rishi1","count":4},{"id":159,"author_name":"Rishi2","count":2},{"id":161,"author_name":"Rishi3","count":1},{"id":162,"author_name":"hello7","count":1}]}
+-------------------------
+Date & Time: 2021-08-20 22:52:23
+URL: /searchBookByAuthor
+Request: 
+Response: {"title":"Search Published Books by Authors","authorListing":[{"id":154,"author_name":"Isak Azimov1","count":1},{"id":155,"author_name":"3","count":1},{"id":156,"author_name":"hello","count":1},{"id":157,"author_name":"hello6","count":1},{"id":158,"author_name":"Rishi1","count":4},{"id":159,"author_name":"Rishi2","count":2},{"id":161,"author_name":"Rishi3","count":1},{"id":162,"author_name":"hello7","count":1}]}
+-------------------------
+Date & Time: 2021-08-20 22:52:26
+URL: /searchBookByAuthor
+Request: 
+Response: {"title":"Search Published Books by Authors","authorListing":[{"id":154,"author_name":"Isak Azimov1","count":1},{"id":155,"author_name":"3","count":1},{"id":156,"author_name":"hello","count":1},{"id":157,"author_name":"hello6","count":1},{"id":158,"author_name":"Rishi1","count":4},{"id":159,"author_name":"Rishi2","count":2},{"id":161,"author_name":"Rishi3","count":1},{"id":162,"author_name":"hello7","count":1}]}
+-------------------------
+Date & Time: 2021-08-20 22:52:41
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:53:22
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":["Rishi10","Rishi10","Rishi10","Rishi11","Rishi11","Rishi12","Rishi13"],"namesInserted":["End of spirit","Standard","Standard","Standard2","Standard2","Standard2","Standard2"]}
+-------------------------
+Date & Time: 2021-08-20 22:53:41
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":["Rishi14"],"namesInserted":["End of spiritpppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp"]}
+-------------------------
+Date & Time: 2021-08-20 22:54:05
+URL: /index
+Request: 
+Response: "Data Not Found"
+-------------------------
+Date & Time: 2021-08-20 22:54:14
+URL: /index
+Request: 
+Response: "No Valid Data Available"
+-------------------------
+Date & Time: 2021-08-20 22:54:14
+URL: /index
+Request: 
+Response: "Nothing to insert"
+-------------------------
+Date & Time: 2021-08-20 22:54:30
+URL: /index
+Request: 
+Response: {"title":"Uploading and Sanitizing Data","authorsInserted":[],"namesInserted":[]}
+-------------------------
+Date & Time: 2021-08-20 22:55:02
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:02:06
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:02:07
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:02:08
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:02:08
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:02:08
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:02:08
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:02:09
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:02:22
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------
+Date & Time: 2021-08-20 23:07:09
+URL: /getBookDetails
+Request: 
+Response: {"status":0,"message":"Improper Input Supplied"}
+-------------------------

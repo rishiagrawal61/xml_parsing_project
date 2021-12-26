@@ -1,0 +1,60 @@
+Date & Time: 2021-08-21 09:30:02
+URL: Master/searchBooksByAuthor
+Request: GET :- {"url":"Master\/searchBooksByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:30:10
+URL: master/searchBookByAuthor
+Request: GET :- {"url":"master\/searchBookByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:31:27
+URL: master/searchBookByAuthor
+Request: GET :- {"url":"master\/searchBookByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:31:31
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- {"author_id":"163"}
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:31:35
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- {"author_id":"157"}
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:31:38
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- {"author_id":"159"}
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:31:41
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- {"author_id":"158"}
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:31:45
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- {"author_id":"167"}
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:31:48
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- {"author_id":"164"}
+Response: 
+-------------------------
+Date & Time: 2021-08-21 09:31:51
+URL: DisplayController/getBookDetails
+Request: GET :- {"url":"DisplayController\/getBookDetails"} POST :- {"author_id":"156"}
+Response: 
+-------------------------

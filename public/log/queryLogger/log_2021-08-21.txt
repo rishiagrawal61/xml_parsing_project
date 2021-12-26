@@ -1,0 +1,75 @@
+Date & Time: 2021-08-21 09:30:11
+Query: {"queryString":"SELECT * FROM author"}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+Query: {"queryString":"SELECT * FROM author WHERE author_name IN ('Rishi10','Rishi10','Rishi10','Rishi11','Rishi11','Rishi12','Rishi13')"}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:23
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+Query: {"queryString":"SELECT * FROM author WHERE author_name IN ('Rishi10','Rishi10','Rishi10','Rishi11','Rishi11','Rishi12','Rishi13')"}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:30:28
+Query: {"queryString":"SELECT * FROM books WHERE author_id = :id AND book_name = :name"}
+-------------------------
+Date & Time: 2021-08-21 09:31:27
+Query: {"queryString":"SELECT * FROM author"}
+-------------------------
+Date & Time: 2021-08-21 09:31:31
+Query: {"queryString":"SELECT id, book_name FROM books WHERE author_id = :author"}
+-------------------------
+Date & Time: 2021-08-21 09:31:35
+Query: {"queryString":"SELECT id, book_name FROM books WHERE author_id = :author"}
+-------------------------
+Date & Time: 2021-08-21 09:31:38
+Query: {"queryString":"SELECT id, book_name FROM books WHERE author_id = :author"}
+-------------------------
+Date & Time: 2021-08-21 09:31:41
+Query: {"queryString":"SELECT id, book_name FROM books WHERE author_id = :author"}
+-------------------------
+Date & Time: 2021-08-21 09:31:45
+Query: {"queryString":"SELECT id, book_name FROM books WHERE author_id = :author"}
+-------------------------
+Date & Time: 2021-08-21 09:31:48
+Query: {"queryString":"SELECT id, book_name FROM books WHERE author_id = :author"}
+-------------------------
+Date & Time: 2021-08-21 09:31:51
+Query: {"queryString":"SELECT id, book_name FROM books WHERE author_id = :author"}
+-------------------------

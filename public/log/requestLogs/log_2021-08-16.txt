@@ -1,0 +1,105 @@
+Date & Time: 2021-08-16 23:18:24
+URL: master
+Request: {"url":"master"}
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:19:59
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:24:55
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:25:54
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:32:35
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:33:11
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:36:46
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:37:38
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:39:08
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:40:10
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:40:19
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:44:41
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:53:00
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:53:01
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:53:43
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:54:31
+URL: master
+Request: GET :- {"url":"master"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:54:36
+URL: Master/searchBooksByAuthor
+Request: GET :- {"url":"Master\/searchBooksByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:54:45
+URL: Master/searchBookByAuthor
+Request: GET :- {"url":"Master\/searchBookByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:54:49
+URL: master/searchBookByAuthor
+Request: GET :- {"url":"master\/searchBookByAuthor"} POST :- []
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:54:52
+URL: master/getBookDetails
+Request: GET :- {"url":"master\/getBookDetails"} POST :- {"author_id":"95"}
+Response: 
+-------------------------
+Date & Time: 2021-08-16 23:54:55
+URL: master/getBookDetails
+Request: GET :- {"url":"master\/getBookDetails"} POST :- {"author_id":"99"}
+Response: 
+-------------------------
